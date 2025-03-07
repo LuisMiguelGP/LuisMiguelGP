@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LuisMiguelGP
-- 👀 I’m interested in Aeronautics and Space
-- 🌱 I’m currently finishing my Masters degree
+- 👋 Hi, I'm @LuisMiguelGP
+- 👀 I'm interested in Aeronautics and Space
+- 🌱 I'm working in the space field developing flight dynamics software
 - 🖥️ My programming skills include Fortran, Python and Matlab. I also work with LaTeX for my projects.
 - 📫 You can reach me through luismiguelgp2000@gmail.com
 - 😄 Pronouns: He/Him
